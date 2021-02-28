@@ -1,0 +1,11 @@
+{
+  "name": "twitter_redesign",
+  "version": "1.0.0",
+  "description": "check readMe.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nyiawung Tech",
+  "license": "ISC"
+}
